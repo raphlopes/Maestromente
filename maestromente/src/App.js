@@ -1,6 +1,6 @@
 import logo from './logo.svg';
+import './bootstrap-grid.min.css';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
