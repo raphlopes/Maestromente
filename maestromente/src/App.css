@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: black;
 }
 
 .App-logo {
@@ -13,21 +12,22 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.red
+.p-2
 {
-  height: 600px;
-  background-color: red;
+  border-radius: 12px;
+  border-color: red ;
 }
-.essai_actuel
+p
 {
-  border-color: white;
+  color:white;
 }
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items:top;
+  align-items: top;
+  justify-content: top;
   font-size: calc(10px + 2vmin);
   color: white;
 }
